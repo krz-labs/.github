@@ -1,0 +1,21 @@
+```
+┌──────────────────────────────────────────────────────────────┐
+│  K R A Z Y   W A R E Z          [ KRZ ]             krz.sh   │
+└──────────────────────────────────────────────────────────────┘
+
+ABOUT
+
+krz started with two people and a spare server.
+
+STATUS
+
+active. slow. not recruiting.
+
+GREETZ
+
+everyone still writing plain text on purpose.
+
+┌──────────────────────────────────────────────────────────────┐
+│  krz.sh                                                      │
+└──────────────────────────────────────────────────────────────┘
+```
