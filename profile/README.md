@@ -2,7 +2,7 @@
 
 Small, durable software focused on utility, privacy, and control.
 
-[krz.sh](https://krz.sh) · [apps](https://krz.sh/apps/) · [services](https://krz.sh/services/) · [source](https://gitbay.org/krz)
+[krz.sh](https://krz.sh) · [apps](https://krz.sh/apps/) · [services](https://krz.sh/services/) · [source](https://github.com/krz-labs)
 
 ## Apps
 
@@ -42,7 +42,7 @@ Public front-ends and tools, self-hosted by krz.
 
 - [1kb](https://rogue.krz.sh/1kb/#g) — ultra-small roguelike game
 - [1mb](https://rogue.krz.sh/1mb/) — extension of 1kb, showing what's possible with 1mb
-- [gitbay](https://gitbay.org) — a CLI-first git forge, where SSH is the API
+- [gitbay](https://github.com/krz-labs/gitbay) — a CLI-first git forge, where SSH is the API
 - [hn](https://hn.krz.sh) — Hacker News proxy
 - [org-live](https://org.krz.sh) — a basic org-mode editor for the web
 - [SkunkyArt](https://art.krz.sh) — DeviantArt alternative front-end; fork of an unmaintained upstream
